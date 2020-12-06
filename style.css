@@ -1,0 +1,44 @@
+body{
+    background-color:black;
+    text-align-last: center;
+    color: white;
+}
+.menu{
+  background-color: white;
+    text-decoration: none;
+    list-style: none;
+    position: fixed;
+    font-size: 25px;
+    color: white;
+}
+h2{
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+}
+.link{
+    padding: 9px;
+    float: left;
+     color:white;
+    outline-color: white;
+      border-color: white;
+}
+p{
+    font-size:25px;
+    font-family: 'Abel', sans-serif;
+}
+mail12 a{
+  color:white;
+  text-decoration:none;
+}
+.mail12 h3{
+  display:inline;
+}
+img{
+   width: 250px;
+    height:250px;
+   transition: transform .2s;
+}
+img:hover{
+transform: scale(0.9);
+    }
+
